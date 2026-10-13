@@ -1,6 +1,6 @@
 # 码上 · 隐私政策
 
-更新日期：2026 年 10 月 10 日
+更新日期：2026 年 10 月 13 日
 
 码上在设备上生成和识别二维码。开发者不设账号、分析服务或接收二维码内容的服务器。
 
@@ -13,7 +13,7 @@
 ## 本机保存与控制
 
 - 码上在本机保存二维码颜色、中心图标、图标大小及历史记录开关。本地上传的中心图片只在当前工作台标签页使用。
-- 仅在您明确启用历史记录后，码上才将成功复制或下载的二维码内容，以及成功识别的文本、时间和类型保存在本机浏览器数据库。历史不保存原图或二维码 PNG，不自动过期。您可随时暂停、删除单条或清空全部；无痕模式不显示或记录普通历史。
+- 自 1.1.2 起，历史记录默认开启；您已暂停的设置会保留。码上将成功复制或下载的二维码内容，以及成功识别的文本、时间和类型保存在本机浏览器数据库。历史不保存原图或二维码 PNG，不自动过期。您可在工作台随时暂停、恢复、删除单条或清空全部；无痕模式不显示或记录普通历史。
 - 连接 TheSVG 图库后，图标目录会缓存在本机；选中的图标及其来源、许可信息也会保存在本机，供离线使用。
 
 ## 网站访问与网络请求
@@ -30,7 +30,7 @@
 
 # QR Blink Privacy Policy
 
-Last updated: October 10, 2026
+Last updated: October 13, 2026
 
 QR Blink creates and reads QR codes on your device. The developer does not operate an account system, analytics service, or server that receives QR content.
 
@@ -43,7 +43,7 @@ QR Blink creates and reads QR codes on your device. The developer does not opera
 ## Local storage and controls
 
 - QR Blink saves QR colors, the selected center icon, icon size, and the history setting on your device. A center image you upload is used only in the current workbench tab.
-- Only after you explicitly enable history does QR Blink save successfully copied or downloaded QR content and successfully decoded text, timestamps, and types in the local browser database. History contains no source images or QR PNGs and does not expire automatically. You can pause it, delete entries, or clear it. Incognito mode neither shows nor records regular history.
+- Starting with version 1.1.2, history is on by default. An existing paused setting is preserved. QR Blink saves successfully copied or downloaded QR content and successfully decoded text, timestamps, and types in the local browser database. History contains no source images or QR PNGs and does not expire automatically. You can pause or resume it, delete entries, or clear it in the workbench. Incognito mode neither shows nor records regular history.
 - After you connect the TheSVG catalog, the icon directory is cached locally. A selected icon and its source and license details are also stored locally for offline use.
 
 ## Website access and network requests
